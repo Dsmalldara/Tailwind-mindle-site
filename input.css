@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: 90% 3%;
+    background-size: 90%;
+}
